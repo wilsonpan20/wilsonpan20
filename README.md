@@ -1,4 +1,3 @@
-!http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
 
 <h1 align="center">Olá 👋, eu sou Wilson Evangelista dos Santos</h1>
 <h3 align="center">Desenvolvedor focado em Javascript, Node.js e React.js, sempre buscando criar soluções inovadoras e eficientes.</h3>
