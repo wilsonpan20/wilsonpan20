@@ -1,4 +1,3 @@
-!http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
 
 <h1 align="center">Olá! 👋 Sou Wilson Evangelista dos Santos</h1>
 <h3 align="center">Desenvolvedor Focado em Soluções Inovadoras com JavaScript, Node.js e React.js.</h3>
@@ -7,7 +6,7 @@
 
 ### Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar **soluções eficientes e inovadoras**. Minha jornada na programação me levou a especializar em **JavaScript**, **Node.js** e **React.js**, tecnologias que utilizo para construir aplicações robustas e escaláveis.
+Sou um desenvolvedor apaixonado por criar **soluções eficientes e inovadoras**. Minha jornada na programação me levou a especializar em **Java** **SpringBoot**, , **JavaScript**, **Node.js** e **React.js**, **Vue js**, tecnologias que utilizo para construir aplicações robustas e escaláveis.
 
 Explore meus repositórios para conhecer meus projetos e contribuições!
 
