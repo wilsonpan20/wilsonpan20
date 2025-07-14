@@ -96,10 +96,6 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsonpan20&show_icons=true&theme=dark&locale=en" alt="wilsonpan20" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonpan20&theme=dark" alt="wilsonpan20" />
-</p>
-
 <br clear="both">
 
 ###
