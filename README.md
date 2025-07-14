@@ -1,16 +1,35 @@
+!http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
 
+<h1 align="center">Olá! 👋 Sou Wilson Evangelista dos Santos</h1>
+<h3 align="center">Desenvolvedor Focado em Soluções Inovadoras com JavaScript, Node.js e React.js.</h3>
 
-<h1 align="center">Olá 👋, eu sou Wilson Evangelista dos Santos</h1>
-<h3 align="center">Desenvolvedor focado em Javascript, Node.js e React.js, sempre buscando criar soluções inovadoras e eficientes.</h3>
+---
+
+### Sobre Mim
+
+Sou um desenvolvedor apaixonado por criar **soluções eficientes e inovadoras**. Minha jornada na programação me levou a especializar em **JavaScript**, **Node.js** e **React.js**, tecnologias que utilizo para construir aplicações robustas e escaláveis.
+
+Explore meus repositórios para conhecer meus projetos e contribuições!
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonpan20&label=Profile%20views&color=0e75b6&style=flat" alt="wilsonpan20" /> </p>
 
 ---
 
-### Conecte-se comigo:
+### Conecte-se Comigo:
 
 <p align="left">
-    </p>
+    <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
+    </a>
+    <a href="mailto:SEU_EMAIL@dominio.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" width="40" height="40"/>
+    </a>
+</p>
 
 ---
 
