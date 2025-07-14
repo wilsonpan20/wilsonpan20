@@ -1,4 +1,4 @@
-!http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
+    !http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
 
 <h1 align="center">Olá! 👋 Sou Wilson Evangelista dos Santos</h1>
 <h3 align="center">Desenvolvedor Focado em Soluções Inovadoras com JavaScript, Node.js e React.js.</h3>
@@ -24,13 +24,13 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@javanauta" target="_blank">
+  <a href="https:" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/javanauta/" target="_blank">
+  <a href="https:" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://br.linkedin.com/in/angelicaweiler" target="_blank">
+  <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
