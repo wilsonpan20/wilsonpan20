@@ -21,20 +21,21 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ### Conecte-se Comigo:
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/wilsonpan20" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
-    </a>
-    <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
-    </a>
-    <a href="mailto:SEU_EMAIL@dominio.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" width="40" height="40"/>
-    </a>
-</p>
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@javanauta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/javanauta/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://br.linkedin.com/in/angelicaweiler" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
