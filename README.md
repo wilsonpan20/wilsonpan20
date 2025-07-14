@@ -1,3 +1,4 @@
+!http://googleusercontent.com/image_collection/image_retrieval/14429633423646173753
 
 <h1 align="center">Olá! 👋 Sou Wilson Evangelista dos Santos</h1>
 <h3 align="center">Desenvolvedor Focado em Soluções Inovadoras com JavaScript, Node.js e React.js.</h3>
@@ -6,7 +7,7 @@
 
 ### Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar **soluções eficientes e inovadoras**. Minha jornada na programação me levou a especializar em **Java** **SpringBoot**, , **JavaScript**, **Node.js** e **React.js**, **Vue js**, tecnologias que utilizo para construir aplicações robustas e escaláveis.
+Sou um desenvolvedor apaixonado por criar **soluções eficientes e inovadoras**. Minha jornada na programação me levou a especializar em **Java**, **Spring Boot**, **JavaScript**, **Node.js**, **React.js** e **Vue.js**, tecnologias que utilizo para construir aplicações robustas e escaláveis.
 
 Explore meus repositórios para conhecer meus projetos e contribuições!
 
@@ -21,6 +22,9 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 <p align="left">
     <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/wilsonpan20" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
     </a>
     <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
@@ -77,25 +81,4 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg" alt="junit" width="40" height="40"/> </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-</p>
-
----
-
-### Estatísticas do GitHub:
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonpan20&show_icons=true&theme=dark&locale=en&layout=compact" alt="wilsonpan20 - Top Languages" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsonpan20&show_icons=true&theme=dark&locale=en" alt="wilsonpan20 - Stats" />
-</p>
-
-<p>&nbsp;</p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonpan20&theme=dark" alt="wilsonpan20 - Streak Stats" /></p>
-
----
-
-### Animação:
-
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+    <a
