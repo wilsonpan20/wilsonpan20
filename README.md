@@ -20,29 +20,34 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ### Conecte-se Comigo:
 
+---
+### Conecte-se Comigo:
+
 <div align="left">
-    <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/wilsonpan20" target="_blank" rel="noreferrer">
+    <a href="https://github.com/wilsonpan20" rel="external">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
     </a>
-    <a href="https://discordapp.com/users/SEU_ID_DISCORD" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <a href="https://discordapp.com/users/SEU_ID_DISCORD" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
     </a>
-    <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
     </a>
-    <a href="https://www.facebook.com/SEU_USUARIO_FACEBOOK" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <a href="https://www.facebook.com/SEU_USUARIO_FACEBOOK" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
     </a>
-    <a href="mailto:SEU_EMAIL@dominio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <a href="mailto:SEU_EMAIL@dominio.com" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
     </a>
-    <a href="https://wa.me/SEU_NUMERO_WHATSAPP" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+    <a href="https://wa.me/SEU_NUMERO_WHATSAPP" rel="external">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
     </a>
 </div>
+
+---
 
 ---
 
